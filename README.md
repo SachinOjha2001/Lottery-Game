@@ -17,7 +17,38 @@ Currently, two official plugins are available:
 🔄 Real-time UI Updates using the useState hook
 
 💡 Beginner-friendly logic with a polished UI
-'''
+
+🔧 Tech Stack
+
+React.js
+
+JavaScript (ES6+)
+
+CSS for styling
+
+Vite / Create-React-App (whichever you used)
+
+📝 How It Works
+
+User clicks the “Try Your Luck” button
+
+A random number is generated and displayed
+
+If the number meets the winning condition, a success message appears
+
+Otherwise, the game encourages the user to try again
+
+🎮 Purpose of the Project
+
+This project helped me practice:
+
+Using React hooks
+
+Managing component state
+
+Writing clean and modular UI components
+
+Implementing logic-based UI rendering
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
