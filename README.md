@@ -44,6 +44,7 @@ Currently, two official plugins are available:
 1️⃣ Install Node.js
 Download & install Node.js (LTS version)
 👉 https://nodejs.org/
+<br>
 npm create vite@latest(For Downloads the Reacr.js)
 
 ✔ Project name: lottery-game  
@@ -51,7 +52,7 @@ npm create vite@latest(For Downloads the Reacr.js)
 ✔ Variant: JavaScript
 npm install(For node_Module)
 
-4️⃣ Start the Development Server
+4️⃣ Start the Development Server  <br>
     npm run dev(Run Project)
 
 📝 How It Works
