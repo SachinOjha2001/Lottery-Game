@@ -60,6 +60,9 @@ npm install(For node_Module)
 <img src="https://github.com/SachinOjha2001/Lottery-Game/blob/main/Screenshot%202025-11-21%20134742.png?raw=true">
 
 <img src="https://github.com/SachinOjha2001/Lottery-Game/blob/main/Screenshot%202025-11-21%20134722.png?raw=true">
+
+<h2>Folder and file structure</h2>
+<img src="https://github.com/SachinOjha2001/Lottery-Game/blob/main/Screenshot%202025-11-21%20143643.png?raw=true">
 📝 How It Works
 
   User clicks the “Try Your Luck” button
