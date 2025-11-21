@@ -8,47 +8,90 @@ Currently, two official plugins are available:
 
 🧩 Key Features
 
-🎰 Random Number Generator using React state
+  🎰 Random Number Generator using React state
 
-🧠 Conditional Rendering to show win/lose messages
+  🧠 Conditional Rendering to show win/lose messages
 
-⚛️ Component-based Structure for clean and reusable UI elements
+  ⚛️ Component-based Structure for clean and reusable UI elements
 
-🔄 Real-time UI Updates using the useState hook
+  🔄 Real-time UI Updates using the useState hook
 
-💡 Beginner-friendly logic with a polished UI
+  💡 Beginner-friendly logic with a polished UI
 
 🔧 Tech Stack
 
-React.js
+  React.js
 
-JavaScript (ES6+)
+  JavaScript (ES6+)
 
-CSS for styling
+  CSS for styling
 
-Vite / Create-React-App (whichever you used)
+  Vite / Create-React-App (whichever you used)
+
+📁 Project Structure
+  /src  
+ ├── components  
+ │    ├── Lottery.jsx  
+ │    ├── Ticket.jsx  
+ │    └── Button.jsx  
+ ├── App.jsx  
+ ├── main.jsx  
+ └── index.css
+⚙️ Installation & Setup
+
+  Follow these steps to run the project on your system.
+  
+1️⃣ Install Node.js
+Download & install Node.js (LTS version)
+👉 https://nodejs.org/
+npm create vite@latest(For Downloads the Reacr.js)
+
+✔ Project name: lottery-game  
+✔ Framework: React  
+✔ Variant: JavaScript
+npm install(For node_Module)
+
+4️⃣ Start the Development Server
+    npm run dev(Run Project)
 
 📝 How It Works
 
-User clicks the “Try Your Luck” button
+  User clicks the “Try Your Luck” button
 
-A random number is generated and displayed
+  A random number is generated and displayed
 
-If the number meets the winning condition, a success message appears
+  If the number meets the winning condition, a success message appears
 
-Otherwise, the game encourages the user to try again
+  Otherwise, the game encourages the user to try again
 
 🎮 Purpose of the Project
 
-This project helped me practice:
+  This project helped me practice:
 
-Using React hooks
+  Using React hooks
 
-Managing component state
+  Managing component state
 
-Writing clean and modular UI components
+  Writing clean and modular UI components
 
-Implementing logic-based UI rendering
+  Implementing logic-based UI rendering
+
+
+📝 Future Improvements
+
+  You can extend the game with:
+
+  Multiple players
+
+  Leaderboard system
+
+  Scratch-card animations
+
+  Reward coins
+
+  API-based result generation
+
+  Dark mode UI
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
