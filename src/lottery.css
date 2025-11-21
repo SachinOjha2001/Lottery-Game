@@ -1,0 +1,16 @@
+.ticket {
+border: 2px solid rgb(247, 31, 31);
+border-radius: 14px;
+}
+button {
+  background-color: green;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+body {
+    background-color: #3292e6;
+    font-family: Arial, sans-serif;
+}
