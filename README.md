@@ -57,7 +57,7 @@ npm install(For node_Module)
 <br>
 <h1>Screenshots</h1>
 <br>
-
+<img src="https://github.com/SachinOjha2001/Lottery-Game/blob/main/Screenshot%202025-11-21%20134742.png?raw=true">
 📝 How It Works
 
   User clicks the “Try Your Luck” button
